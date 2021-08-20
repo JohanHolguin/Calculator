@@ -28,7 +28,7 @@
             <br>
             <!--<label name="result" id="lblResult">Resultado:</label> -->   
     
-            <b>Resultado:</b> ${ sessionScope.RESULT }
+            <b>RESULTADO:</b> ${ sessionScope.RESULT }
         </form>
     </body>
 </html>
